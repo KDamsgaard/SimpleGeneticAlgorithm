@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OptimizationExam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OptimizationExam_jar</output-path>
+    <root id="archive" name="OptimizationExam.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../OptimizationExamJAR/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="OptimizationExam" />
+    </root>
+  </artifact>
+</component>
